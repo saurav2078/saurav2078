@@ -1,5 +1,5 @@
-<h1 >👋 Hi, I’m Saurav Shrestha.</h1><br>
-I'm a student of BSC.CSIT.
+<header >👋 Hi, I’m Saurav Shrestha.</header>
+I'm a BSC.CSIT student.
 
 
 <!---
